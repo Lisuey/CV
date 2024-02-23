@@ -1,0 +1,56 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url(https://img.freepik.com/vector-premium/patron-fisuras-cabezas-perros-diferentes-razas-corgi-beagle-chihuahua-terrier-pomerania-textura-caras-perro-ilustracion-vector-dibujado-mano-estilo-doodle-sobre-fondo-blanco_192280-214.jpg?w=740);
+    background-repeat: repeat;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    margin-top: 5vw;
+}
+
+.body {
+    background-color: #FFFFFFda;
+}
+
+.contacto {
+    line-height: 0.5;
+    size: 2em;
+}
+
+.experiencia {
+    line-height: 0.4;
+    background-size: 20px
+}
+
+.educacion {
+    line-height: 0.8;
+}
+
+.habilidades {
+    line-height: 1.5;
+}
+
+h1 {
+    color: #2A8198;
+
+}
+
+h2 {
+    color: #2A8198;
+    padding-left: 30px;
+}
+
+h3 {
+    color: #2A8198;
+    padding-left: 30px;
+}
+
+h4 {
+    color: #2A8198;
+
+}
+
+footer {
+    background-color: #FEAB4C;
+    padding: 1vw;
+    text-align: center;
+}
